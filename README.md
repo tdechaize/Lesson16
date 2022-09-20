@@ -1,7 +1,7 @@
 # Lesson16
 Lesson16 OpenGL (from NeHe)
 
-Vous trouverez dans le sommaire ci-dessous les explication pour regénérer cette application, illustrant un des usages d'OpenGL (issu sur site NeHe) : 
+Vous trouverez dans le sommaire ci-dessous les explication pour regénérer cette application, illustrant un des usages d'OpenGL (issu du site NeHe) : 
 l'effet brouillard sur la scéne affichée.
 
 ## Table of contents
